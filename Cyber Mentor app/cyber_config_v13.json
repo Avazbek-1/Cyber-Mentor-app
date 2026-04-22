@@ -1,0 +1,238 @@
+{
+    "questions": [
+        {
+            "q": "Kutilmagan kiber-hujum vaqtida o'zingizni qanday his qilasiz?",
+            "o": [
+                "G'azab va tezkor kurashish",
+                "Hayajon va jamoaga xabar berish",
+                "Sovuqonlik bilan tahlil qilish",
+                "Vahima va chorasizlik"
+            ],
+            "t": [
+                "Xolerik",
+                "Sangvinik",
+                "Flegmatik",
+                "Melanxolik"
+            ]
+        },
+        {
+            "q": "Jamoada konflikt yuzaga kelsa, yondashuvingiz?",
+            "o": [
+                "O'z fikrimni keskin himoya qilaman",
+                "Muzokara orqali kelishaman",
+                "Vaziyat tinchishini kutaman",
+                "Aybdorlik hissini tuyaman"
+            ],
+            "t": [
+                "Xolerik",
+                "Sangvinik",
+                "Flegmatik",
+                "Melanxolik"
+            ]
+        },
+        {
+            "q": "Muloqotda noverbal belgilarga qanchalik e'tibor berasiz?",
+            "o": [
+                "Imo-ishoralarni keskin ishlataman",
+                "Tabassum va ochiq muloqot",
+                "Masofani qat'iy saqlayman",
+                "Ko'p kuzataman, kam gapiraman"
+            ],
+            "t": [
+                "Xolerik",
+                "Sangvinik",
+                "Flegmatik",
+                "Melanxolik"
+            ]
+        },
+        {
+            "q": "Yangi murakkab topshiriqni qanday qabul qilasiz?",
+            "o": [
+                "Ishtiyoq bilan darhol boshlayman",
+                "Osonlik bilan moslashaman",
+                "Reja asosida sekin boshlayman",
+                "Xavotir bilan qabul qilaman"
+            ],
+            "t": [
+                "Xolerik",
+                "Sangvinik",
+                "Flegmatik",
+                "Melanxolik"
+            ]
+        },
+        {
+            "q": "Sizga tanqidiy fikr aytishsa, reaksiyangiz qanday?",
+            "o": [
+                "Keskin e'tiroz bildiraman",
+                "Xulosa chiqarib kulib qo'yaman",
+                "Indamasdan eshitaman",
+                "Uzoq vaqt o'ylab siqilaman"
+            ],
+            "t": [
+                "Xolerik",
+                "Sangvinik",
+                "Flegmatik",
+                "Melanxolik"
+            ]
+        },
+        {
+            "q": "Ish jarayonida 'deadline' yaqinlashsa:",
+            "o": [
+                "Ishchanlik qobiliyatim oshadi",
+                "Boshqalardan yordamga chaqiraman",
+                "Sokinlik bilan davom etaman",
+                "Tez charchab qolaman"
+            ],
+            "t": [
+                "Xolerik",
+                "Sangvinik",
+                "Flegmatik",
+                "Melanxolik"
+            ]
+        },
+        {
+            "q": "Siz uchun eng qulay ish muhiti qanday?",
+            "o": [
+                "Raqobat bor join",
+                "Faol va quvnoq jamoa",
+                "Sokin va tartibli xona",
+                "Yolg'izlikda ishlash"
+            ],
+            "t": [
+                "Xolerik",
+                "Sangvinik",
+                "Flegmatik",
+                "Melanxolik"
+            ]
+        },
+        {
+            "q": "Notanish davrada o'zingizni qanday tutasiz?",
+            "o": [
+                "Tashabbusni qo'lga olaman",
+                "Tez kirishib ketaman",
+                "Kuzatishni afzal ko'raman",
+                "Chetda turishga harakat qilaman"
+            ],
+            "t": [
+                "Xolerik",
+                "Sangvinik",
+                "Flegmatik",
+                "Melanxolik"
+            ]
+        },
+        {
+            "q": "Xatoga yo'l qo'ysangiz, birinchi fikringiz:",
+            "o": [
+                "Aybdorni qidiraman",
+                "Hazilga burib yuboraman",
+                "Sababini tahlil qilaman",
+                "O'zimni ayblayman"
+            ],
+            "t": [
+                "Xolerik",
+                "Sangvinik",
+                "Flegmatik",
+                "Melanxolik"
+            ]
+        },
+        {
+            "q": "Stress holatida tana harakatlaringiz qanday o'zgaradi?",
+            "o": [
+                "Harakatlarim keskinlashadi",
+                "Faollashaman",
+                "Harakatlarim sekinlashadi",
+                "Butkul qotib qolaman"
+            ],
+            "t": [
+                "Xolerik",
+                "Sangvinik",
+                "Flegmatik",
+                "Melanxolik"
+            ]
+        },
+        {
+            "q": "Nutqingizning o'ziga xosligi nimada?",
+            "o": [
+                "Tez va baland ovozda",
+                "Jonli va ifodali",
+                "Sokin va bir tekisda",
+                "Past ovozda va uzuq-yuluq"
+            ],
+            "t": [
+                "Xolerik",
+                "Sangvinik",
+                "Flegmatik",
+                "Melanxolik"
+            ]
+        },
+        {
+            "q": "Qaror qabul qilishda nimalarga tayanasiz?",
+            "o": [
+                "Intuitsiya va tezkorlik",
+                "Atrofdagilar fikri",
+                "Mantiq va tajriba",
+                "Hissiyot va shubhalar"
+            ],
+            "t": [
+                "Xolerik",
+                "Sangvinik",
+                "Flegmatik",
+                "Melanxolik"
+            ]
+        },
+        {
+            "q": "Muvaffaqiyatsizlikka uchrasangiz:",
+            "o": [
+                "G'azab bilan qayta urinaman",
+                "Boshqa narsaga chalg'iyman",
+                "Xotirjamlikni saqlayman",
+                "Tushkunlikka tushaman"
+            ],
+            "t": [
+                "Xolerik",
+                "Sangvinik",
+                "Flegmatik",
+                "Melanxolik"
+            ]
+        },
+        {
+            "q": "Diqqatni jamlash qobiliyatingiz qanday?",
+            "o": [
+                "Tez chalg'iyman",
+                "Vaziyatga qarab o'zgaradi",
+                "Uzoq vaqt jamlay olaman",
+                "Juda qiyin jamlayman"
+            ],
+            "t": [
+                "Xolerik",
+                "Sangvinik",
+                "Flegmatik",
+                "Melanxolik"
+            ]
+        },
+        {
+            "q": "Yangi tanishuvlar siz uchun:",
+            "o": [
+                "Imkoniyat",
+                "Zavq",
+                "Zaruriyat",
+                "Qiyinchilik"
+            ],
+            "t": [
+                "Xolerik",
+                "Sangvinik",
+                "Flegmatik",
+                "Melanxolik"
+            ]
+        }
+    ],
+    "admin_pass": "641",
+    "results": [
+        {
+            "name": "qw",
+            "group": "qw",
+            "type": "Xolerik",
+            "date": "2026-03-08 18:11"
+        }
+    ]
+}
